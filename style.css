@@ -1,0 +1,6 @@
+/* Apply to the label element associated with a required field */ 
+ .required::after {    
+  content: ' (Required) '
+  color: #c00;    
+  font-size: .8em;
+  }
