@@ -4,3 +4,10 @@
   color: #c00;    
   font-size: .8em;
   }
+
+.header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+    font-family: "Comfortaa", Comfortaa, sans-serif;
+}
