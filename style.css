@@ -5,9 +5,10 @@
   font-size: .8em;
   }
 
-.header {
-    background-color: #f1f1f1;
+.header, .footer {
+    background-color: #f2552c;
     padding: 20px;
     text-align: center;
+    text-color: #1ef876
     font-family: "Comfortaa", Comfortaa, sans-serif;
 }
